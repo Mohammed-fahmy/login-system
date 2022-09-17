@@ -1,3 +1,3 @@
 # login-system
 
-## DBname = login_system 
+## DBname = login_db 
